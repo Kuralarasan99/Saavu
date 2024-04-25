@@ -26,6 +26,7 @@ public class Kural {
 
 }
 	private void name7() {
+		System.out.println("nooo");
 		System.out.println("sai");
 }
 }
