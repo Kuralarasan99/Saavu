@@ -1,0 +1,16 @@
+package com.ivm;
+
+public class Kural {
+	
+	private void name1() {
+		System.out.println("Kural");
+		
+	}
+	private void name2() {
+		System.out.println("Kural");
+	}
+	private void name3() {
+		System.out.println("Kural");
+	}
+
+}
