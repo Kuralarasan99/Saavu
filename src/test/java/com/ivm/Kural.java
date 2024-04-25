@@ -12,5 +12,13 @@ public class Kural {
 	private void name3() {
 		System.out.println("Kural");
 	}
+	
+	private void name4() {
+		System.out.println("sakthi");
+	}
+	
+	private void name5() {
+		System.out.println("sakthi");
+	}
 
 }
