@@ -32,5 +32,7 @@ public class Kural {
 		System.out.println("nooo");
 
 		System.out.println("sai");
+		
+		System.out.println("Dont");
 }
 }
