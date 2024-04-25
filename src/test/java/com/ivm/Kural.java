@@ -20,5 +20,12 @@ public class Kural {
 	private void name5() {
 		System.out.println("sakthi");
 	}
+	
+	private void name6() {
+		System.out.println("sai");
 
+}
+	private void name7() {
+		System.out.println("sai");
+}
 }
