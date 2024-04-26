@@ -28,11 +28,15 @@ public class Kural {
 	private void name7() {
 
 		System.out.println("123");
+		
 		System.out.println("sothat");
+		
 		System.out.println("nooo");
 
 		System.out.println("sai");
 		
 		System.out.println("Dont");
+		
+		System.out.println("DO");
 }
 }
